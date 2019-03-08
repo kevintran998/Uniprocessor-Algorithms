@@ -1,4 +1,4 @@
-// File: KT_Program1.cpp
+// File: main.cpp
 // Author: Kevin Tran
 //
 // This program compares First-Come-First-Served (FCFS), Round Robin (RR),
