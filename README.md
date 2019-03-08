@@ -23,4 +23,4 @@ for each of the four algorithms
 
 ***** WHAT I LEARNED *****
 I learned how the four algorithms process data and which one would be the 
-most effient to implement in a uniprocessor system.
+most efficient to implement in a uniprocessor system.
