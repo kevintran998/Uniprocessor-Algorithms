@@ -1,9 +1,5 @@
 # Uniprocessor-Algorithms
 
-***** PURPOSE *****
-Compare four uniprocessor algorithms in order to determine which one
-is the most efficient.
-
 ***** DESCRIPTION *****
 This program compares First-Come-First-Served (FCFS), Round Robin (RR),
 Shortest Process Next (SPN), and Shortest Remaining Time (SRT) algorithm
